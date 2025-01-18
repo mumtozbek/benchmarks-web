@@ -1,0 +1,29 @@
+# Node.js
+node_app/node_modules/
+node_app/npm-debug.log
+
+# Python
+python_app/__pycache__/
+python_app/*.pyc
+python_app/*.pyo
+python_app/env/
+
+# Rust
+rust_app/target/
+
+# Go
+go_app/bin/
+
+# C#/.NET
+csharp_app/bin/
+csharp_app/obj/
+
+# Java
+java_app/target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
