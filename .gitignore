@@ -15,8 +15,8 @@ rust_app/target/
 go_app/bin/
 
 # C#/.NET
-csharp_app/bin/
-csharp_app/obj/
+dotnet_app/bin/
+dotnet_app/obj/
 
 # Java
 java_app/target/
