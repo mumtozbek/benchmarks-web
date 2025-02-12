@@ -6,7 +6,7 @@
 #include <sys/epoll.h>
 #include <pthread.h>
 
-#define PORT 8080
+#define PORT 8000
 #define MAX_EVENTS 100
 #define THREAD_POOL_SIZE 4
 
